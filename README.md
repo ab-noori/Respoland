@@ -1,3 +1,2 @@
 # respoland
-Responsive Landing Page
-This is a basic landing page project.
+Single responsive page. Go to the link: https://ab-noori.github.io/respoland/ to see on github pages.
